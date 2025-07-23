@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>admin_icon.png</file>
+        <file>book_icon.png</file>
+        <file>crea_icon.png</file>
+        <file>exit_icon.png</file>
+        <file>filter_icon.png</file>
+        <file>freccia_icon.png</file>
+        <file>home_icon.png</file>
+        <file>lente_icon.png</file>
+        <file>occhio_icon.png</file>
+        <file>success_icon.png</file>
+        <file>utente_icon.png</file>
+<file>attenzione_icon.png</file>
+<file>ok_icon.png</file>
+<file>load_icon.png</file>
+<file>out_icon.png</file>
+<file>back_icon.png</file>
+ <file>error_icon.png</file>
+<file>film_icon.png</file>
+<file>rivista_icon.png</file>
+<file>libro_icon.png</file>
+<file>giu_icon.png</file>
+<file>spesa_icon.png</file>
+
+
+    </qresource>
+</RCC>
