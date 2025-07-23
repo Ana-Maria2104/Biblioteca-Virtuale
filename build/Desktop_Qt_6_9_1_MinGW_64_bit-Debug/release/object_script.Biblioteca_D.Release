@@ -1,0 +1,17 @@
+release/main.o
+release/AdminPage.o
+release/EditCreatePage.o
+release/MainWindow.o
+release/PageVisitor.o
+release/UserPage.o
+release/Json.o
+release/Biblioteca.o
+release/Film.o
+release/Libro.o
+release/Vinile.o
+release/qrc_resources.o
+release/moc_AdminPage.o
+release/moc_EditCreatePage.o
+release/moc_MainWindow.o
+release/moc_UserPage.o
+release/moc_Json.o

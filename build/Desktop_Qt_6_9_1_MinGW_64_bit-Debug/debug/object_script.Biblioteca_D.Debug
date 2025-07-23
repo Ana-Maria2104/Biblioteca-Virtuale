@@ -1,0 +1,17 @@
+debug/main.o
+debug/AdminPage.o
+debug/EditCreatePage.o
+debug/MainWindow.o
+debug/PageVisitor.o
+debug/UserPage.o
+debug/Json.o
+debug/Biblioteca.o
+debug/Film.o
+debug/Libro.o
+debug/Vinile.o
+debug/qrc_resources.o
+debug/moc_AdminPage.o
+debug/moc_EditCreatePage.o
+debug/moc_MainWindow.o
+debug/moc_UserPage.o
+debug/moc_Json.o
