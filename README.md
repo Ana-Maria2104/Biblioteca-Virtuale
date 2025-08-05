@@ -20,13 +20,13 @@ Makefile – Sistema di build per compilazione e gestione del progetto
 ## 📦Prerequisiti
 Per contribuire al progetto, assicurati di avere installato i seguenti strumenti sul tuo computer:
 
--Qt (versione consigliata: 5.15+ o 6.x)
+- Qt (versione consigliata: 5.15+ o 6.x)
 
--Qt Creator (facoltativo ma consigliato per lo sviluppo)
+- Qt Creator (facoltativo ma consigliato per lo sviluppo)
 
--Compilatore C++ (G++, Clang o MSVC)
+- Compilatore C++ (G++, Clang o MSVC)
 
--Sistema di build make (GNU Make)
+- Sistema di build make (GNU Make)
 
 Verifica l’installazione eseguendo questi comandi nel terminale:
 ```bash
