@@ -64,7 +64,7 @@ make --version
 🔁 1. Fork del repository (opzionale)
 Puoi fare il fork di questo repository su GitHub per lavorare su una tua copia personale:
 
-👉[ Fai il fork di questo repo](https://github.com/Ana-Maria2104/Biblioteca-Virtuale.git)
+👉[ Fai il fork di questo repo](https://github.com/DraghiciAnaMaria/Biblioteca-Virtuale.git)
 
 📥 2. Clona il repository
 Apri un terminale (ad esempio Git Bash su Windows, o il terminale su Linux/macOS) ed esegui i seguenti comandi:
