@@ -36,32 +36,44 @@ make --version
 ```
 ---
 
-## 🚀 Come contribuire
 
-1. Fai un fork del progetto su GitHub
+## 🚀 Iniziare
+🔁 1. Fork del repository (opzionale)
+Puoi fare il fork di questo repository su GitHub per lavorare su una tua copia personale:
 
-2. Clona il tuo fork nel computer:
+👉[ Fai il fork di questo repo](https://github.com/Ana-Maria2104/Biblioteca-Virtuale.git)
+
+📥 2. Clona il repository
+Apri un terminale (ad esempio Git Bash su Windows, o il terminale su Linux/macOS) ed esegui i seguenti comandi:
 ```bash
-git clone https://github.com/tuo-username/Biblioteca-Virtuale.git
+git clone https://github.com/Ana-Maria2104/Biblioteca-Virtuale.git
 cd Biblioteca-Virtuale
 ```
-3. Crea un nuovo branch per la tua funzionalità:
-```bash
-git checkout -b feature/NomeFantasticaFunzione
-```
-4. Effettua le modifiche e fai un commit:
-```bash
-git commit -m "Aggiunta funzione Fantastica"
-```
-5. Push del branch sul tuo fork:
-```bash
-git push origin feature/NomeFantasticaFunzione
-```
-6. Apri una Pull Request dal tuo fork al repository originale
+---
+## 🧱 4. Compilazione del progetto con Qt Creator
+Se preferisci utilizzare un ambiente grafico, puoi compilare e avviare il progetto direttamente da Qt Creator.
+
+📌 Requisiti:
+- Qt installato (consigliato Qt 5.15+ o 6.x)
+
+- Qt Creator installato (IDE ufficiale di Qt)
+
+🚶‍♀️ Passaggi:
+1. Apri Qt Creator
+
+2. Vai su File → Open File or Project...
+
+3. Seleziona il file .pro del progetto (es: BibliotecaVirtuale.pro)
+
+4. Qt Creator configurerà automaticamente l'ambiente di build. Se richiesto, seleziona un kit di compilazione (es: Desktop Qt 6.6.2 GCC 64bit o simile).
+
+5. Clicca su 🛠️ Build (Martello) per compilare
+6. Clicca su ▶️ Run (Play) per eseguire il programma
 
 ---
+💡 Qt Creator è consigliato soprattutto per il debugging e per la gestione visuale di interfacce grafiche .ui.
 
-Grazie per il tuo supporto! 💡
+Grazie per il tuo supporto! ❀
 ---
 
 
